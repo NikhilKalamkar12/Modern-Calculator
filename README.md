@@ -47,11 +47,11 @@ Modern-Calculator/
 
 ## ⚙️ How It Works (Logic Overview)
 
-- User clicks buttons to enter numbers and operators
-- Input is displayed dynamically on the screen
-- JavaScript evaluates expressions safely
-- Result is displayed instantly
-- Clear/Delete buttons reset or modify input
+1. User clicks buttons to enter numbers and operators
+2. Input is displayed dynamically on the screen
+3. JavaScript evaluates expressions safely
+4. Result is displayed instantly
+5. Clear/Delete buttons reset or modify input
 
 ---
 
